@@ -18,8 +18,26 @@ Electronics & Communication Engineering Student
 - Static Timing Analysis (STA)
 
 ## Projects
-- FIFO Design
-- UART using Verilog
+ 
+### UART using Verilog
+
+### Synchronous FIFO
+- Designed Synchronous FIFO using Verilog
+- Verified functionality using SystemVerilog testbench
+- Implemented full and empty flag logic
+
+### Asynchronous FIFO
+- Designed Asynchronous FIFO with separate read/write clocks
+- Worked on clock domain crossing concepts
+- Verified design using SystemVerilog
+
+## Tools
+- Vivado
+- QuestaSim
+- Cadance
+- EDA Playground
+- Tinkercad
+  
 
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/deeksha-shekhawat-06287128b
