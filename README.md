@@ -19,14 +19,14 @@ Electronics & Communication Engineering Student
 
 ## Projects
  
-### UART using Verilog
+### (1)UART using Verilog
 
-### Synchronous FIFO
+### (2)Synchronous FIFO
 - Designed Synchronous FIFO using Verilog
 - Verified functionality using SystemVerilog testbench
 - Implemented full and empty flag logic
 
-### Asynchronous FIFO
+### (3)Asynchronous FIFO
 - Designed Asynchronous FIFO with separate read/write clocks
 - Worked on clock domain crossing concepts
 - Verified design using SystemVerilog
