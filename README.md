@@ -137,4 +137,4 @@ https://github.com/Deekshashekhawat
 
 ---
 
-⭐ Feel free to explore my repositories and connect with me. I'm always excited to learn, build, and contribute to the field of VLSI, Semiconductor Design, RTL Design, and Verification.
+-> Feel free to explore my repositories and connect with me. I'm always excited to learn, build, and contribute to the field of VLSI, Semiconductor Design, RTL Design, and Verification.
