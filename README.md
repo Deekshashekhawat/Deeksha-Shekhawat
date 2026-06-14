@@ -89,7 +89,7 @@ Electronics & Communication Engineering Student passionate about **Digital Desig
 * Built a self-checking scoreboard for automated result comparison
 * Gained hands-on experience with industry-standard verification methodology
 
-🔗 Repository: https://github.com/Deekshashekhawat/UVM-environment-for-4-bit-Adder
+🔗 [Repository: https://github.com/Deekshashekhawat/UVM-environment-for-4-bit-Adder](https://github.com/Deekshashekhawat/uvm_environment_for_adder)
 
 ---
 
