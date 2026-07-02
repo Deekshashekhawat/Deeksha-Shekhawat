@@ -93,6 +93,18 @@ Electronics & Communication Engineering Student passionate about **Digital Desig
 
 ---
 
+### (5) Static Timing Analysis (STA) of a 4-Bit Counter using Yosys & OpenSTA
+* Designed a 4-bit synchronous counter in Verilog RTL.
+* Synthesized the RTL into a technology-mapped gate-level netlist using Yosys and the Nangate Open Cell Library.
+* Applied timing constraints using an SDC (Synopsys Design Constraints) file.
+* Performed Static Timing Analysis (STA) using OpenSTA.
+* Analyzed setup timing paths, critical path delay, slack, WNS, and TNS.
+* Learned the complete RTL-to-STA workflow followed in digital ASIC design.
+
+🔗 Repository: https://github.com/Deekshashekhawat/Timing-Analysis-using-Yosys-OpenSTA
+
+---
+
 ##  Tools & Technologies
 
 * Vivado
@@ -105,11 +117,8 @@ Electronics & Communication Engineering Student passionate about **Digital Desig
 
 ## Areas of Interest
 
-* RTL Design
-* Digital VLSI Design
-* Design Verification
-* SystemVerilog & UVM
-* Clock Domain Crossing (CDC)
+* RTL Design & Verification
+* Verilog, System Verilog & UVM
 * Static Timing Analysis (STA)
 * Semiconductor Design Flow
 
