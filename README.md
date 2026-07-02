@@ -1,7 +1,7 @@
 # Hi there 👋
 
 I'm **Deeksha Shekhawat**
-Electronics & Communication Engineering Student passionate about **Digital Design, RTL Design, Verification, and VLSI Engineering**.
+Electronics & Communication Engineering Student passionate about **Digital Design, Verification, and VLSI Engineering**.
 
 ---
 
