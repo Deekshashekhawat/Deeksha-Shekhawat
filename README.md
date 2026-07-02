@@ -8,9 +8,9 @@ Electronics & Communication Engineering Student passionate about **Digital Desig
 ## About Me
 
 * Electronics & Communication Engineering Student
-* Interested in RTL Design and Design Verification
+* Interested in RTL Design and Verification
 * Currently learning VLSI Design, Verification, and Static Timing Analysis (STA)
-* Exploring Verilog, SystemVerilog, UVM, and Digital IC Design
+* Exploring Verilog, System Verilog, UVM, and STA
 * Aspiring Semiconductor and VLSI Engineer
 
 ---
