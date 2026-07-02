@@ -110,9 +110,10 @@ Electronics & Communication Engineering Student passionate about **Digital Desig
 * Vivado
 * QuestaSim
 * EDA Playground
+* OpenSTA
+* Yosys
 * Git & GitHub
-* Cadence Tools
-
+  
 ---
 
 ## Areas of Interest
